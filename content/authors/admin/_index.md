@@ -51,16 +51,16 @@ interests:
 education:
   - area: PhD in Statistical Applied Mathematics
     institution: University of Bath
-    date_start: 2024
+    date_start: 2024-10-01
     date_end: ''
   - area: MRes in Statistical Applied Mathematics
     institution: University of Bath
-    date_start: October 2023
-    date_end: September 2024
+    date_start: 2023-10-01
+    date_end: 2024-09-01
   - area: MSci/MMath in Mathematics
     institution: UCL
-    date_start: 2018
-    date_end: 2022
+    date_start: 2018-10-01
+    date_end: 2022-07-02
     # summary: |
     #   GPA: 3.4/4.0
       
