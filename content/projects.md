@@ -58,8 +58,8 @@ sections:
 # sections:
   - block: collection
     content:
-      title: 
-      text: Degree and industry research projects
+      title: Degree and industry research projects
+      text: During my PhD at the University of Bath, I worked in interdisciplinary teams to formulate mathematical problems from high-level applied challenges in collaboration with industrial partners. These events are known as Integrative Think Tanks ([ITTs](https://samba.ac.uk/working-with-samba/integrative-think-tanks-itts/)).
       filters:
         folders:
           - project
@@ -71,7 +71,7 @@ sections:
 
 ---
 # Industry Research Projects
-During my PhD at the University of Bath, I worked in interdisciplinary teams to formulate mathematical problems from high-level applied challenges in collaboration with industrial partners. These events are known as Integrative Think Tanks ([ITTs](https://samba.ac.uk/working-with-samba/integrative-think-tanks-itts/)):
+
 
 
 

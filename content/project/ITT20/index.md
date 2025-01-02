@@ -1,7 +1,7 @@
 ---
-title: scikit-learn
+title: ITT20
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://samba.ac.uk/itt20-with-bezero-carbon-and-rolls-royce/
 tags:
   - Hugo
   - Wowchemy
