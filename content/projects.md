@@ -9,7 +9,7 @@ design:
 
 
 sections:
-  - block: content
+  - block: collection
     content:
       title: 'Research Overview'
       text: >
@@ -17,7 +17,7 @@ sections:
 
         The PhD is under the supervision of [Dr. Yury Korolev](https://yury-korolev.gitlab.io/) and [Dr. Matthias Ehrhardt](https://mehrhardt.github.io/index.html). More generally, my interests span numerical analysis, mathematical modelling, and machine learning (ML).
 
-  - block: content
+  - block: collection
     content:
       title: 'Publications'
       items:
@@ -25,7 +25,7 @@ sections:
             **Joseph Costello, Amar Bhogal, Thomas Williams, Richard Bekoe, Amin Sabir, Michael Tipton, Jo Corbett, Alireza Mani** (2020). 
             [Effects of Normobaric Hypoxia on Oxygen Saturation Variability.](https://www.liebertpub.com/doi/10.1089/ham.2019.0092) *High Altitude Medicine and Biology*.
 
-  - block: content
+  - block: collection
     content:
       title: 'Degree Projects'
       items:
@@ -37,7 +37,7 @@ sections:
             **Asymptotic and hyperasymptotic expansions of solutions to ordinary differential equations (ODEs)** ([PDF](Amins_Masters.pdf))  
             Written as a master's project for my MSci degree at UCL, supervised by [Prof. Rod Halburd](https://www.ucl.ac.uk/~ucahrha/).
 
-  - block: content
+  - block: collection
     content:
       title: 'Industry Research Projects'
       text: >
