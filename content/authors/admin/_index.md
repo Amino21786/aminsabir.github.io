@@ -169,9 +169,10 @@ work:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-# ---
+# 
 
 ## About Me
 
 I am a PhD student in Statistical Applied Mathematics at the University of Bath within the [SAMBa CDT](https://samba.ac.uk/) (cohort 10). I am supervised by [Dr. Yury Korolev](https://yury-korolev.gitlab.io/) and [Dr. Matthias Ehrhardt] (https://mehrhardt.github.io/index.html) and my primary research focus is in inverse problems, involving data-driven regularisation methods for imaging problems such as medical imaging. You can click [here](experience.html) to find out more. Previously, I obtained an MSci degree in mathematics from the University College London (UCL). If you're interested in my full CV, click [here](experience.html). To get in contact, send me an email at [as5057@bath.ac.uk](mailto:as5057@bath.ac.uk).
 
+---
