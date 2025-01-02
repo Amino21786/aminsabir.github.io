@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Integrative Think Tanks (ITTs)
+      text: Discussion on [ITT](https://people.bath.ac.uk/as5057/research.html)
       filters:
         folders:
           - project
