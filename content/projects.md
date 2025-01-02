@@ -1,5 +1,5 @@
 ---
-title: 'Research Projects'
+title: 'Projects'
 date: 2024-05-19
 type: landing
 
@@ -9,13 +9,13 @@ design:
 
 
 sections:
-  - block: collection
-    content:
-      title: 'Research Overview'
-      text: >
-        My primary research focus is in inverse problems, focusing on data-driven regularisation methods. I am intrigued by inverse problems (specifically those found in imaging applications such as in CT or MRI scans), Machine Learning, and numerical optimisation. My PhD seeks to learn data-driven techniques to help solve inverse problems derived from a variational regularisation modelling approach. 
+  # - block: collection
+  #   content:
+  #     title: 'Research Overview'
+  #     text: >
+  #       My primary research focus is in inverse problems, focusing on data-driven regularisation methods. I am intrigued by inverse problems (specifically those found in imaging applications such as in CT or MRI scans), Machine Learning, and numerical optimisation. My PhD seeks to learn data-driven techniques to help solve inverse problems derived from a variational regularisation modelling approach. 
 
-        The PhD is under the supervision of [Dr. Yury Korolev](https://yury-korolev.gitlab.io/) and [Dr. Matthias Ehrhardt](https://mehrhardt.github.io/index.html). More generally, my interests span numerical analysis, mathematical modelling, and machine learning (ML).
+  #       The PhD is under the supervision of [Dr. Yury Korolev](https://yury-korolev.gitlab.io/) and [Dr. Matthias Ehrhardt](https://mehrhardt.github.io/index.html). More generally, my interests span numerical analysis, mathematical modelling, and machine learning (ML).
 
   - block: collection
     content:
@@ -56,17 +56,5 @@ sections:
 ---
 
 
-# # Page sections
-# sections:
-#   - block: collection
-#     content:
-#       title: 
-#       text: Discussion on [ITT](https://people.bath.ac.uk/as5057/research.html)
-#       filters:
-#         folders:
-#           - project
-#     design:
-#       view: article-grid
-#       fill_image: false
-#       columns: 3
+
 
