@@ -73,8 +73,8 @@ work:
     company_name: Infosys
     company_url: https://www.infosys.com/
     company_logo: ''
-    date_start: 2022
-    date_end: 2023
+    date_start: 2022-09-11
+    date_end: 2023-09-12
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -106,7 +106,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
+skills:
 #   - name: Technical Skills
 #     items:
 #       - name: Python
@@ -121,13 +121,12 @@ work:
 #         description: ''
 #         percent: 40
 #         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Long-distance running
+        description: ''
 #         icon: person-simple-walk
 #       - name: Cats
 #         description: ''
