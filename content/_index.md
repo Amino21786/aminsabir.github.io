@@ -9,37 +9,35 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+  # - block: resume-biography-3
+  #   content:
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  #     text: ""
+  #     # Show a call-to-action button under your biography? (optional)
+  #     button:
+  #       text: Download CV
+  #       url: uploads/resume.pdf
+  #   design:
+  #     css_class: dark
+  #     background:
+  #       color: black
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         filename: stacked-peaks.svg
+  #         filters:
+  #           brightness: 1.0
+  #         size: cover
+  #         position: center
+  #         parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        In inverse problems, such as computed tomography (CT) and photoacoustic tomography (PAT), the goal is to reconstruct a quantity of interest from indirect and often noisy measurements. These problems are challenging due to their ill-posed nature and the complexity of the data. Traditional approaches, like variational regularisation, have been effective, but are often limited by their handcrafted design (e.g. promoting smoothness in the reconstruction), which can be restrictive and insufficiently adaptive for capturing diverse reconstruction features.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Recently, data-driven regularisation methods, such as plug-and-play (PnP), have been introduced to integrate learned priors from training data. These methods are designed to address a wider range of inverse problems, including tasks like image denoising and deblurring. This project will explore the application of such data-driven approaches to medical imaging, focusing on their theoretical foundations, practical implementation, and mathematical guarantees. The goal is to understand the inner workings of these methods and identify the most suitable regularisation techniques for specific inverse problem settings in medical imaging.
     design:
       columns: '1'
   - block: collection
@@ -79,7 +77,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
+      
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
