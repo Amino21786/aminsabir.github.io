@@ -51,7 +51,7 @@ interests:
 education:
   - area: PhD in Statistical Applied Mathematics
     institution: University of Bath
-    date_start: October 2024
+    date_start: 2024
     date_end: ''
   - area: MRes in Statistical Applied Mathematics
     institution: University of Bath
@@ -59,8 +59,8 @@ education:
     date_end: September 2024
   - area: MSci/MMath in Mathematics
     institution: UCL
-    date_start: October 2018
-    date_end: July 2022
+    date_start: 2018
+    date_end: 2022
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -73,8 +73,8 @@ work:
     company_name: Infosys
     company_url: https://www.infosys.com/
     company_logo: ''
-    date_start: September 2022
-    date_end: September 2023
+    date_start: 2022
+    date_end: 2023
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -84,8 +84,8 @@ work:
     company_name: Infosys
     company_url: https://www.infosys.com/
     company_logo: ''
-    date_start: June 2021
-    date_end: August 2021
+    date_start: 2021-06-01
+    date_end: 2021-08-31
     # summary: |
     #   Responsibilities include:
     #   - Migrated infrastructure to a new data center
@@ -96,8 +96,8 @@ work:
     company_name: HegartyMaths (SparxMaths)
     company_url: https://sparxmaths.com/
     company_logo: ''
-    date_start: May 2019  
-    date_end: September 2019
+    date_start: 2019-05-01  
+    date_end: 2019-09-15
     # summary: |
     #   Responsibilities include:
     #   - Migrated infrastructure to a new data center
