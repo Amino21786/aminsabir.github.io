@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Amin Sabir</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>ITT20</title>
+      <link>http://localhost:1313/project/itt20/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/itt20/</guid>
+      <description>&lt;h2 id=&#34;industry-partners&#34;&gt;Industry partners&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bezerocarbon.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeZero Carbon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rolls-royce.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rolls-Royce Holdings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project description&lt;/h2&gt;
+&lt;p&gt;This Integrative Think Tank project focused on reverse engineering atmospheric dust content from jet engine samples. The work brought together mathematical modelling and industrial expertise to infer physically meaningful information from complex measurement data, with the aim of supporting improved sustainability and engineering decisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project title:&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Reverse engineering atmospheric dust content from jet engine samples&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Slides/PDF:&lt;/strong&gt; &lt;a href=&#34;ITT20RollsRoyceDust.pdf&#34;&gt;ITT20RollsRoyceDust.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ITT19</title>
+      <link>http://localhost:1313/project/itt19/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/itt19/</guid>
+      <description>&lt;h2 id=&#34;industry-partners&#34;&gt;Industry partners&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wessexwater.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wessex Water&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cameraforensics.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CameraForensics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project description&lt;/h2&gt;
+&lt;p&gt;As part of the Integrative Think Tank programme, this project focused on using physics-based models based on partial differential equations to describe river velocity and bacterial concentrations. The goal was to support public-safety and environmental monitoring applications by combining mathematical modelling with real-world challenges from industrial partners.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project title:&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Physics-based models using partial differential equations for modelling river velocity and bacteria concentrations&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Slides/PDF:&lt;/strong&gt; &lt;a href=&#34;ITT19WessexWaterRiver.pdf&#34;&gt;ITT19WessexWaterRiver.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;!-- PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

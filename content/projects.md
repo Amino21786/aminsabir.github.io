@@ -55,7 +55,21 @@ sections:
   #           Project title: *"Physics-based models using partial differential equations for modelling river velocity and bacteria concentrations"* ([slides](ITT19WessexWaterRiver.pdf)).
 
 # # Page sections
-# sections:
+sections:
+  - block: markdown
+    content:
+      title: Research project links
+      text: |-
+        ### ITT19
+        [Project overview](/project/ITT19/) • [Slides/PDF](/project/ITT19/ITT19WessexWaterRiver.pdf)
+
+        *Project title:* "Physics-based models using partial differential equations for modelling river velocity and bacteria concentrations"
+
+        ### ITT20
+        [Project overview](/project/ITT20/) • [Slides/PDF](/project/ITT20/ITT20RollsRoyceDust.pdf)
+
+        *Project title:* "Reverse engineering atmospheric dust content from jet engine samples"
+
   - block: collection
     content:
       title: Degree and industry research projects

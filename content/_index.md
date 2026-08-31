@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: "#0f5132"
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -76,7 +76,8 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: ''
+      text: |-
+        This section is intentionally left as a placeholder for future updates. Add news items here when they are ready.
       
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
