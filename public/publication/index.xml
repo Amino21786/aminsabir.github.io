@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Amin Sabir</title>
-    <link>http://localhost:45893/publication/</link>
-      <atom:link href="http://localhost:45893/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:35595/publication/</link>
+      <atom:link href="http://localhost:35595/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:45893/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:35595/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:45893/publication/</link>
+      <link>http://localhost:35595/publication/</link>
     </image>
     
     <item>
       <title>Effects of Normobaric Hypoxia on Oxygen Saturation Variability</title>
-      <link>http://localhost:45893/publication/journal-article/</link>
+      <link>http://localhost:35595/publication/journal-article/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45893/publication/journal-article/</guid>
+      <guid>http://localhost:35595/publication/journal-article/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; The study is the first to evaluate the effects of graded normobaric hypoxia on SpO2 variability in healthy individuals.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Materials and Methods:&lt;/strong&gt; Twelve healthy males (mean [standard deviation] age 22 [4] years) were exposed to four simulated environments (fraction of inspired oxygen [&lt;em&gt;F&lt;/em&gt;IO2]: 0.12, 0.145, 0.17, and 0.21) for 45 minutes, in a balanced crossover design.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title></title>
-      <link>http://localhost:45893/publication/conference-paper/</link>
+      <link>http://localhost:35595/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45893/publication/conference-paper/</guid>
+      <guid>http://localhost:35595/publication/conference-paper/</guid>
       <description>&lt;!-- 
 
 
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title></title>
-      <link>http://localhost:45893/publication/preprint/</link>
+      <link>http://localhost:35595/publication/preprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45893/publication/preprint/</guid>
+      <guid>http://localhost:35595/publication/preprint/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
