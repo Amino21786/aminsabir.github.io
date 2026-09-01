@@ -18,10 +18,6 @@ authors:
 tags: []
 featured: true
 
-image:
-  filename: "none"
-  caption: ''
-
 url_code: ''
 url_pdf: ''
 url_slides: ''

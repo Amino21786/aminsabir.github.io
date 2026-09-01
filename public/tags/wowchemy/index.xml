@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wowchemy | Amin Sabir</title>
-    <link>http://localhost:1313/tags/wowchemy/</link>
-      <atom:link href="http://localhost:1313/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:45893/tags/wowchemy/</link>
+      <atom:link href="http://localhost:45893/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>Wowchemy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:45893/media/icon_hu7729264130191091259.png</url>
       <title>Wowchemy</title>
-      <link>http://localhost:1313/tags/wowchemy/</link>
+      <link>http://localhost:45893/tags/wowchemy/</link>
     </image>
     
     <item>
       <title>ITT20</title>
-      <link>http://localhost:1313/project/itt20/</link>
+      <link>http://localhost:45893/project/itt20/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/itt20/</guid>
+      <guid>http://localhost:45893/project/itt20/</guid>
       <description>&lt;h2 id=&#34;industry-partners&#34;&gt;Industry partners&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://bezerocarbon.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeZero Carbon&lt;/a&gt;&lt;/li&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>ITT19</title>
-      <link>http://localhost:1313/project/itt19/</link>
+      <link>http://localhost:45893/project/itt19/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/itt19/</guid>
+      <guid>http://localhost:45893/project/itt19/</guid>
       <description>&lt;h2 id=&#34;industry-partners&#34;&gt;Industry partners&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.wessexwater.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wessex Water&lt;/a&gt;&lt;/li&gt;

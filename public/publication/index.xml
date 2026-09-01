@@ -2,42 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Amin Sabir</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:45893/publication/</link>
+      <atom:link href="http://localhost:45893/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:45893/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>http://localhost:45893/publication/</link>
     </image>
     
     <item>
       <title>Effects of Normobaric Hypoxia on Oxygen Saturation Variability</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>http://localhost:45893/publication/journal-article/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:45893/publication/journal-article/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; The study is the first to evaluate the effects of graded normobaric hypoxia on SpO2 variability in healthy individuals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Materials and Methods:&lt;/strong&gt; Twelve healthy males (mean [standard deviation] age 22 [4] years) were exposed to four simulated environments (fraction of inspired oxygen [&lt;em&gt;F&lt;/em&gt;IO2]: 0.12, 0.145, 0.17, and 0.21) for 45 minutes, in a balanced crossover design.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Sample entropy, a tool that quantifies the irregularity of pulse oximetry fluctuations, was used as a measure of SpO2 variability. SpO2 entropy increased as the &lt;em&gt;F&lt;/em&gt;IO2 decreased, and there was a strong significant negative correlation between mean SpO2 and its entropy during hypoxic exposure (&lt;em&gt;r&lt;/em&gt; = −0.841 to −0.896, &lt;em&gt;p&lt;/em&gt; &amp;lt; 0.001). In addition, SpO2 sample entropy, but not mean SpO2, was correlated (&lt;em&gt;r&lt;/em&gt; = 0.630–0.760, &lt;em&gt;p&lt;/em&gt; &amp;lt; 0.05) with dyspnea in &lt;em&gt;F&lt;/em&gt;IO2 0.17, 0.145, and 0.12 and importantly, SpO2 sample entropy at &lt;em&gt;F&lt;/em&gt;IO2 0.17 was correlated with dyspnea at &lt;em&gt;F&lt;/em&gt;IO2 0.145 (&lt;em&gt;r&lt;/em&gt; = 0.811, &lt;em&gt;p&lt;/em&gt; &amp;lt; 0.01).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; These findings suggest that SpO2 variability analysis may have the potential to be used in a clinical setting as a noninvasive measure to identify the negative sequelae of hypoxemia.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>http://localhost:45893/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>http://localhost:45893/publication/conference-paper/</guid>
       <description>&lt;!-- 
 
 
@@ -76,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/preprint/</link>
+      <link>http://localhost:45893/publication/preprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
+      <guid>http://localhost:45893/publication/preprint/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

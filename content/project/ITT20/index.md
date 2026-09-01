@@ -3,6 +3,11 @@ title: ITT20
 date: 2024-06-02
 external_link: https://samba.ac.uk/itt20-with-bezero-carbon-and-rolls-royce/
 summary: "Reverse engineering atmospheric dust content from jet engine samples in collaboration with BeZero Carbon and Rolls-Royce."
+image:
+  filename: "../rollsroyce.png"
+  caption: "Rolls-Royce"
+  focal_point: "Center"
+  preview_only: false
 tags:
   - Hugo
   - Wowchemy

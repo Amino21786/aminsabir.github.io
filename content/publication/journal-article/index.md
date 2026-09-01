@@ -24,11 +24,22 @@ publication_types: ["article-journal"]
 publication: "High Altitude Medicine and Biology"
 publication_short: ""
 
-abstract:  The study is the first to evaluate the effects of graded normobaric hypoxia on SpO2 variability in healthy individuals.
+abstract: |
+  Background:
+  The study is the first to evaluate the effects of graded normobaric hypoxia on SpO2 variability in healthy individuals.
 
+  Materials and Methods:
+  Twelve healthy males (mean [standard deviation] age 22 [4] years) were exposed to four simulated environments (fraction of inspired oxygen [*F*IO2]: 0.12, 0.145, 0.17, and 0.21) for 45 minutes, in a balanced crossover design.
+
+  Results:
+  Sample entropy, a tool that quantifies the irregularity of pulse oximetry fluctuations, was used as a measure of SpO2 variability. SpO2 entropy increased as the *F*IO2 decreased, and there was a strong significant negative correlation between mean SpO2 and its entropy during hypoxic exposure (*r* = −0.841 to −0.896, *p* < 0.001). In addition, SpO2 sample entropy, but not mean SpO2, was correlated (*r* = 0.630–0.760, *p* < 0.05) with dyspnea in *F*IO2 0.17, 0.145, and 0.12 and importantly, SpO2 sample entropy at *F*IO2 0.17 was correlated with dyspnea at *F*IO2 0.145 (*r* = 0.811, *p* < 0.01).
+
+  Conclusions:
+  These findings suggest that SpO2 variability analysis may have the potential to be used in a clinical setting as a noninvasive measure to identify the negative sequelae of hypoxemia.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: |
+#   The study is the first to evaluate the effects of graded normobaric hypoxia on SpO2 variability in healthy individuals.
 
 tags:
 - Source Themes
@@ -68,12 +79,12 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+## Abstract
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+**Background:** The study is the first to evaluate the effects of graded normobaric hypoxia on SpO2 variability in healthy individuals.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+**Materials and Methods:** Twelve healthy males (mean [standard deviation] age 22 [4] years) were exposed to four simulated environments (fraction of inspired oxygen [*F*IO2]: 0.12, 0.145, 0.17, and 0.21) for 45 minutes, in a balanced crossover design.
+
+**Results:** Sample entropy, a tool that quantifies the irregularity of pulse oximetry fluctuations, was used as a measure of SpO2 variability. SpO2 entropy increased as the *F*IO2 decreased, and there was a strong significant negative correlation between mean SpO2 and its entropy during hypoxic exposure (*r* = −0.841 to −0.896, *p* < 0.001). In addition, SpO2 sample entropy, but not mean SpO2, was correlated (*r* = 0.630–0.760, *p* < 0.05) with dyspnea in *F*IO2 0.17, 0.145, and 0.12 and importantly, SpO2 sample entropy at *F*IO2 0.17 was correlated with dyspnea at *F*IO2 0.145 (*r* = 0.811, *p* < 0.01).
+
+**Conclusions:** These findings suggest that SpO2 variability analysis may have the potential to be used in a clinical setting as a noninvasive measure to identify the negative sequelae of hypoxemia.

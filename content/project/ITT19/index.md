@@ -3,6 +3,11 @@ title: ITT19
 date: 2024-02-01
 external_link: https://samba.ac.uk/itt19-improving-public-safety-and-tackling-crime-using-maths/
 summary: "Physics-based models using partial differential equations for modelling river velocity and bacteria concentrations in collaboration with Wessex Water and CameraForensics."
+image:
+  filename: "../wessexwater.png"
+  caption: "Wessex Water"
+  focal_point: "Center"
+  preview_only: false
 tags:
   - Hugo
   - Wowchemy

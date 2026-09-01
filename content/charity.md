@@ -6,7 +6,6 @@ type: page
 
 ## Charity and wider interests
 
-This section is currently being developed and will be used to highlight my work outside academia, particularly my long-distance running and fundraising activities.
 
 ### Long-distance running
 
