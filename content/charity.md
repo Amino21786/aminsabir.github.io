@@ -15,9 +15,9 @@ type: page
 
 - Fundraised over £10,000 for Epilepsy Society in memory of my sister Mariam.
 - Marathon fundraising pages:
-  - [TCS London Marathon 2023](https://2023tcslondonmarathon.enthuse.com/pf/amin-sabir?utm_source=Web&utm_medium=TCS&utm_campaign=2023)
-  - [JustGiving fundraising page](https://www.justgiving.com/page/amin-sabir)
-  - [JustGiving fundraising page 2025](https://www.justgiving.com/page/amin-sabir-19)
+  - [London Marathon fundraising page 2023](https://2023tcslondonmarathon.enthuse.com/pf/amin-sabir?utm_source=Web&utm_medium=TCS&utm_campaign=2023)
+  - [Brighton Marathon fundraising page 2025](https://www.justgiving.com/page/amin-sabir)
+  - [Edinburgh Marathon fundraising page 2026](https://www.justgiving.com/page/amin-sabir-19)
 
 
 ### Volunteering
