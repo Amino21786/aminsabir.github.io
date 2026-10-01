@@ -61,12 +61,12 @@ sections:
       title: Research project links
       text: |-
         ### ITT19
-        [Project overview](/project/itt19/) • [Slides/PDF](/project/itt19/ITT19WessexWaterRiver.pdf)
+        [Project overview](/projects/itt19/) • [Slides/PDF](/projects/itt19/ITT19WessexWaterRiver.pdf)
 
         *Project title:* "Physics-based models using partial differential equations for modelling river velocity and bacteria concentrations"
 
         ### ITT20
-        [Project overview](/project/itt20/) • [Slides/PDF](/project/itt20/ITT20RollsRoyceDust.pdf)
+        [Project overview](/projects/itt20/) • [Slides/PDF](/projects/itt20/ITT20RollsRoyceDust.pdf)
 
         *Project title:* "Reverse engineering atmospheric dust content from jet engine samples"
 
