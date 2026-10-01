@@ -24,6 +24,6 @@ tags:
 This Integrative Think Tank project focused on reverse engineering atmospheric dust content from jet engine samples. The work brought together mathematical modelling and industrial expertise to infer physically meaningful information from complex measurement data, with the aim of supporting improved sustainability and engineering decisions.
 
 **Project title:** *"Reverse engineering atmospheric dust content from jet engine samples"*  
-**Slides/PDF:** [ITT20RollsRoyceDust.pdf](ITT20RollsRoyceDust.pdf)
+**Slides/PDF:** [ITT20RollsRoyceDust.pdf](https://amino21786.github.io/aminsabir.github.io/projects/itt20/ITT20RollsRoyceDust.pdf)
 
 <!--more-->

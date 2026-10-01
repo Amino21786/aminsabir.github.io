@@ -24,6 +24,6 @@ tags:
 As part of the Integrative Think Tank programme, this project focused on using physics-based models based on partial differential equations to describe river velocity and bacterial concentrations. The goal was to support public-safety and environmental monitoring applications by combining mathematical modelling with real-world challenges from industrial partners.
 
 **Project title:** *"Physics-based models using partial differential equations for modelling river velocity and bacteria concentrations"*  
-**Slides/PDF:** [ITT19WessexWaterRiver.pdf](ITT19WessexWaterRiver.pdf)
+**Slides/PDF:** [ITT19WessexWaterRiver.pdf](https://amino21786.github.io/aminsabir.github.io/projects/itt19/ITT19WessexWaterRiver.pdf)
 
 <!--more-->
