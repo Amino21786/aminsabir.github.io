@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /Amin_Sabir_resume.pdf
+        url: https://amino21786.github.io/aminsabir.github.io/Amin_Sabir_resume.pdf
     design:
       css_class: dark
       background:

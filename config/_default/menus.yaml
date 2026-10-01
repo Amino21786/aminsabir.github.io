@@ -19,8 +19,8 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Research
-    url: projects/
+  - name: Projects
+    url: https://amino21786.github.io/aminsabir.github.io/projects/
     weight: 30
   - name: Charity & Interests
     url: charity/
